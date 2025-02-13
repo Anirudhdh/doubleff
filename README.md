@@ -1,4 +1,4 @@
-**Hot to put 2 profiles into the FF**
+**Hot to put 2 profiles into the FF(on a Linux)**
 
 1. delete or rename ~/.mozilla if it exists
 2. clone the repo into ~/.mozilla
