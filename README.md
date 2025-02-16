@@ -1,4 +1,4 @@
-**How to 2 profiles the FF(Linux)**
+**How to 2 profile the FF(Linux)**
 
 1. delete or rename ~/.mozilla if it exists
 2. clone the repo into ~/.mozilla
