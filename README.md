@@ -14,5 +14,5 @@
 ```
 rm -fr ~/.mozilla
 git clone https://github.com/Anirudhdh/doubleff.git ~/.mozilla
-mv ~/.mozilla/firefox-bin* ~/Desktop/
+mv ~/.mozilla/firefox* ~/Desktop/
 ```
